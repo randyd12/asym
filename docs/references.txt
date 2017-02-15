@@ -1,0 +1,14 @@
+
+common openssl commands like converting from pem to der
+https://www.sslshopper.com/article-most-common-openssl-commands.html
+
+Loading public and private DER keys in java
+http://codeartisan.blogspot.in/2009/05/public-key-cryptography-in-java.html
+
+
+Example for printing the cert info from java
+http://www.pixelstech.net/article/1433764001-Generate-certificate-from-cert-file-in-Java
+
+
+This guy says it is possible to read either DER or PEM, but I could not get it to work
+http://stackoverflow.com/questions/24137463/how-to-load-public-certificate-from-pem-file/24139603
